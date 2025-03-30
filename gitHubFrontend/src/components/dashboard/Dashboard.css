@@ -1,0 +1,9 @@
+#dashboard{
+  display: flex;
+  justify-content: space-between;
+}
+
+#dashboard, #navbar{
+  background-color: black;
+  color: white;
+}

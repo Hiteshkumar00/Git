@@ -1,0 +1,33 @@
+nav{
+  display: flex;
+  padding: .5rem;
+  border-bottom: 1px solid white;
+  justify-content: space-between;
+}
+
+nav a{
+  color: white;
+  text-decoration: none;
+}
+
+nav img{
+  width: 3rem;
+  height: 3rem;
+}
+
+nav div{
+  display: flex;
+}
+
+nav h3{
+  margin-left: 10px;
+}
+
+nav p{
+  margin-left: 50px;
+  font-weight: bold;
+}
+
+nav p:hover{
+  text-decoration: underline;
+ }
